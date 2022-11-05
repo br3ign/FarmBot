@@ -35,7 +35,6 @@ Here's a list of components we used for this design:
 - 4.7Kohm resistor
 - DHT22 digital temperature sensor (5V)
 - 16x2 LCD screen (5V)
-- 8 Position Selector switch
 - Red LED (3.3V)
 - 2.1mm Barrel jack
 - 9V power adapter (2.1mm connector)
