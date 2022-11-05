@@ -1,6 +1,3 @@
-# FarmBot
-A simple opensource system for monitoring a small simple hydroponic garden or regular soil garden
-
 # Overview
 ## What is FarmBot
 FarmBot is an opensource, microcontroller-based device, designed by Tier 10 Technology Ltd  as a platform that can be used to automate some of your gardening tasks. It is geared towards hydroponic farms, but any farming type can utilize it.
